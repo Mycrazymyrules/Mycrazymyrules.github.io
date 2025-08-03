@@ -12,7 +12,7 @@
       <title>Episode 1 - My Crazy</title>
       <description>This is my very first episode. Thank you for joining me!</description>
       <pubDate>Sat, 03 Aug 2025 12:00:00 GMT</pubDate>
-      <enclosure url="http://www.yoursite.com/audio/episode1.mp3" length="12345678" type="audio/mpeg" />
+      <enclosure url="https://mycrazymyrules.github.io/Episode1.mp3" length="12345678" type="audio/mpeg" />
       <guid>episode1</guid>
     </item>
 
