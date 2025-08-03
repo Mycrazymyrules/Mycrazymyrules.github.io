@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>My Crazy, My Rules</title>
+    <link>http://www.yoursite.com/podcast</link>
+    <description>A podcast where we talk mental health, humor, and being human.</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Episode 1 - My Crazy</title>
+      <description>This is my very first episode. Thank you for joining me!</description>
+      <pubDate>Sat, 03 Aug 2025 12:00:00 GMT</pubDate>
+      <enclosure url="http://www.yoursite.com/audio/episode1.mp3" length="12345678" type="audio/mpeg" />
+      <guid>episode1</guid>
+    </item>
+
+    <!-- Add more <item> sections for each episode -->
+  </channel>
+</rss>
